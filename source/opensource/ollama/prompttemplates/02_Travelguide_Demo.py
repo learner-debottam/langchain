@@ -5,7 +5,7 @@
 ## - langchain-ollama
 ## - streamlit
 ## To run the app, use the command: streamlit run 02_Travelguide_Demo.py
-ç
+
 from langchain_ollama import ChatOllama
 import streamlit as st
 from langchain.prompts import PromptTemplate
