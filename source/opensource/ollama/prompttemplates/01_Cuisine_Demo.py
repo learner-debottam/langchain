@@ -1,4 +1,9 @@
-
+## Travel Guide Demo with Ollama and Streamlit
+## This script creates a simple travel guide application using Ollama's LLM and Streamlit.
+## Requirements:
+## - langchain-ollama
+## - streamlit
+## To run the app, use the command: streamlit run 02_Travelguide_Demo.py
 from langchain_ollama import ChatOllama
 import streamlit as st
 from langchain.prompts import PromptTemplate
